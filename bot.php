@@ -1,3 +1,2 @@
-<? php
-echo "I am Line bot";
-?>
+<?php
+echo "W u Do this";
